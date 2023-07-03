@@ -55,3 +55,8 @@
   * [Babel](#)
   * [Webpack](#)
   * [Adicionando react em uma aplicação](#)
+
+- [11 - Conceitos Fundamentais para React - Básico - 1 hrs](#)
+  * [JSX](#)
+  * [Componentes de classes e funcionais](#)
+  * [Ciclo de vida](#)
