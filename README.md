@@ -61,8 +61,16 @@
   * [Componentes de classes e funcionais](#)
   * [Ciclo de vida](#)
 
-
 - [12 - Convenções e Qualidade de Código React - Básico - 1 hrs](#)
   * [Eslint](#)
   * [Prettier](#)
   * [Editor Config](#)
+
+- [13 - Primeira Aplicação em React - Básico - 2 hrs](#)
+  * [A fazer](#)
+
+- [14 - Desafio de Código - Formação React Developer II - Básico - 1 hrs](#)
+  * [A fazer](#)
+
+- [15 - Criando uma Wiki de Repositórios do GitHub Com React - Básico - 1 hrs](#)
+  * [OK](#)
