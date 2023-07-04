@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 const App = () => {
   const [usuario, setUsuario] = useState("");
-  const [count, setCount] = useState("");
+  const [count, setCount] = useState(0);
   const [usuarios, setUsuarios] = useState(["Pablo", "José", "Manoel"]);
 
   const handleAddUser = () => {
@@ -11,12 +11,16 @@ const App = () => {
   }
 
   useEffect(() => {
+    setCount(usuarios.length);
 
-  },[]);
+    // disparar alguma logica
+    // return () => function
+  },[usuarios]);
 
   return (
     <div className="App">
       <h1>Hello DIO!</h1>
+      <h3>Total: {count}</h3>
       <div>
         <input 
           value={usuario}

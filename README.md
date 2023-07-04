@@ -60,3 +60,9 @@
   * [JSX](#)
   * [Componentes de classes e funcionais](#)
   * [Ciclo de vida](#)
+
+
+- [12 - Convenções e Qualidade de Código React - Básico - 1 hrs](#)
+  * [Eslint](#)
+  * [Prettier](#)
+  * [Editor Config](#)
