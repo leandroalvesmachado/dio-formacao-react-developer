@@ -45,9 +45,7 @@
   * [OK](#)
 
 - [09 - Materiais Complementares: Fundamentos do React - Básico - 1 hrs](#)
-  * [Explicando sobre Materiais de apoio](#)
-  * [Materiais Complementares](#)
-  * [Minha Primeira Aplicação React](#)
+  * [OK](#)
 
 ## Conceito Básicos da Biblioteca
 
@@ -74,3 +72,13 @@
 
 - [15 - Criando uma Wiki de Repositórios do GitHub Com React - Básico - 1 hrs](#)
   * [OK](#)
+
+- [16 - Materiais Complementares: Conceitos Básicos - Básico - 1 hrs](#)
+  * [OK](#)
+
+## Ampliando o Conhecimento em React
+
+- [17 - Intermediário - 1 hrs](#)
+  * [](#)
+  * [](#)
+  * [](#)
