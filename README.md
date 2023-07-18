@@ -78,7 +78,17 @@
 
 ## Ampliando o Conhecimento em React
 
-- [17 - Intermediário - 1 hrs](#)
-  * [](#)
-  * [](#)
-  * [](#)
+- [17 - Iniciando um Projeto com React CLI e Navegação - Intermediário - 1 hrs](#)
+  * [O que é o React CLI](#)
+  * [Criando o projeto com React CLI - npx create-react-app my-app](#)
+  * [Adicionando Navegação no Projeto - npm install react-router-dom](#)
+
+- [18 - Estilização com Styled-Components - Intermediário - 2 hrs](#)
+  * [O que é Styled-Components](#)
+  * [Instalar e configurar o styled components](#)
+  * [Conhecendo a aplicação e construindo componentes](#)
+  * [Tela de Home](#)
+  * [Criando tela de login](#)
+  * [Criando tela usuário logado](#)
+
+
