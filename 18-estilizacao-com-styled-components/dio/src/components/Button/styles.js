@@ -14,6 +14,10 @@ export const ButtonContainer = styled.button`
     height: 33px;
     background: #E41050;
 
+    &:hover {
+      opacity: 0.6;
+    }
+
     &::after {
       content: '';
       position: absolute;
