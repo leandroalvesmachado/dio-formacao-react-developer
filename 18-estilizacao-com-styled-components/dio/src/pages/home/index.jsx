@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-// import bannerImage from "../../assets/banner-play.png";
+import bannerImage from "../../assets/banner-play.png";
 import Button from "../../components/Button";
 import Header from "../../components/Header";
 import { Container, TextContent, Title, TitleHighlight } from "./styles";
@@ -24,7 +24,7 @@ const Home = () => {
           <Button title="Começar agora" variant="secondary" onClick={() => null} />
         </div>
         <div>
-          <img src={''} alt="Imagem principal" />
+          <img src={bannerImage} alt="Imagem principal" />
         </div>
       </Container>
     </>

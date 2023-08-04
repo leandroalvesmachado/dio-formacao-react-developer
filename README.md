@@ -91,4 +91,10 @@
   * [Criando tela de login](#)
   * [Criando tela usuário logado](#)
 
+- [19 - Trabalhando Com Hooks Básico - Intermediário - 1 hrs](#)
+  * [O que são hooks](#)
+  * [useState](#)
+  * [useEffect](#)
+  * [useMemo](#)
+  * [useCallback](#)
 
