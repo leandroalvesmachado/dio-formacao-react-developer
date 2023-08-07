@@ -8,7 +8,6 @@ export const Container = styled.main`
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
 `;
 
 export const Title = styled.h2`
@@ -35,4 +34,9 @@ export const TextContent = styled.p`
   margin-bottom: 20px;
   line-height: 22px;
   color: #FFFFFF;
+`;
+
+export const Column = styled.div`
+  flex: ${({flex}) => flex};
+  padding-right: 24px;
 `;
