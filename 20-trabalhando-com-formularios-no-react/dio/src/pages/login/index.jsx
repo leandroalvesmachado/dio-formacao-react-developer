@@ -7,6 +7,7 @@ import { Container, Wrapper, Column, Row, Title, TitleLogin, SubtitleLogin, Esqu
 import { useForm } from "react-hook-form";
 import { yupResolver } from '@hookform/resolvers/yup';
 import * as yup from "yup";
+import { api } from "../../services/api";
 
 const schema = yup.object({
   email: yup.string().email('E-mail invalido').required('Campo obrigatório'),
@@ -23,7 +24,22 @@ const Login = () => {
 
   console.log(errors);
 
-  const onSubmit = data => console.log(data);
+  // const onSubmit = data => console.log(data);
+
+  // consumindo api com axios
+  const onSubmit = async formData => {
+    try {
+      const { data } = await api.get(`users?email=${formData.email}&senha=${formData.password}`);
+      
+      if (data.length === 1) {
+        navigate('/feed');
+      } else {
+        alert('Email ou senha invalidos');
+      }
+    } catch (error) {
+      alert("Houve um erro, tente novamente");
+    }
+  };
 
   const handleClickSignIn = () => {
     navigate('/feed');
