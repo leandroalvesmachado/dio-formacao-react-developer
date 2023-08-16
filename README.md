@@ -102,3 +102,21 @@
   * [React Hook Forms](#)
   * [Requisição com axios](#)
 
+- [21 - Desenvolvendo a Tela de Cadastro da Plataforma Dio com React - Intermediário - 1 hrs](#)
+  * [](#)
+
+- [22 - Materiais Complementares: Ampliando o Conhecimento em React - Intermediário - 1 hrs](#)
+  * [OK](#)
+
+## React com TypeScript
+
+- [23 - Fundamentos do TypeScript - Intermediário - 1 hrs](#)
+  * [O que é typescript](#)
+  * [Os Benefícios do TypeScript](#)
+  * [Conceitos básicos do TypeScript](#)
+
+- [24 - Convertendo o Projeto de JavaScript para TypeScript - Intermediário - 1hrs](#)
+  * [Convertendo o Projeto de JavaScript para TypeScript](#)
+
+- [25 - Implementando Uma Tela de Login Com Validação Usando TypeScript - Intermediário - 1hrs](#)
+  * [](#)
